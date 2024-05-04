@@ -19,7 +19,7 @@ environment. It connects people online and lets them express hand gestures in so
 * Enhance your communication in social VR by showing hand gestures
 * Connect to your friends in a private environment
 
-# Watch the Demo
+# Watch the Demo (wait for the gif to get downloaded)
 <img alt="Demo.gif" src="https://github.com/mo-kasiri/MO-Taverse/blob/main/demo.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 ## How it works
